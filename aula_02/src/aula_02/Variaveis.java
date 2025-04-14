@@ -25,13 +25,17 @@ public class Variaveis {
 		final double PI = 3.1415; 
 		
 		// Atribuição de valor
-		//numero_02 = 75;
+		opcao = 'F';
 		
 		// Exibição em tela
 		System.out.printf("Variável numero 1 %d variavel numero 2 %d\n", numero_01, numero_02);
 		System.out.println("Variável numero 2 é igual a: " + numero_02);
 		System.out.printf("Constante PI é igual a: %.2f\n", PI);
+		System.out.println("Variável opcao: " + opcao);
+		System.out.println("Variável menor idade: " +  menorIdade);
 		System.out.println("Variável nome em letras maiúsculas: " + nome.toUpperCase());
+		
+		leia.close(); // Elimina o Warning do Scanner
 	}
 
 }

@@ -14,12 +14,14 @@ public class Calculadora {
 		System.out.println("Digite o segundo valor: ");
 		double numero_02 = leia.nextDouble();
 		
-		System.out.printf("\n%f + %f = %.2f", numero_01, numero_02, (numero_01 + numero_02));
-		System.out.printf("\n%f - %f = %.2f", numero_01, numero_02, (numero_01 - numero_02));
-		System.out.printf("\n%f * %f = %.2f", numero_01, numero_02, (numero_01 * numero_02));
-		System.out.printf("\n%f / %f = %.2f", numero_01, numero_02, (numero_01 / numero_02));
-		System.out.printf("\n%f ^ %f = %.2f", numero_01, numero_02, Math.pow(numero_01, numero_02));
-		System.out.printf("\n%f R %f = %.2f", numero_01, numero_02, Math.sqrt(numero_01));
+		System.out.printf("\n%.2f + %.2f = %.2f", numero_01, numero_02, (numero_01 + numero_02));
+		System.out.printf("\n%.2f - %.2f = %.2f", numero_01, numero_02, (numero_01 - numero_02));
+		System.out.printf("\n%.2f * %.2f = %.2f", numero_01, numero_02, (numero_01 * numero_02));
+		System.out.printf("\n%.2f / %.2f = %.2f", numero_01, numero_02, (numero_01 / numero_02));
+		System.out.printf("\n%.2f ^ %.2f = %.2f", numero_01, numero_02, Math.pow(numero_01, numero_02));
+		System.out.printf("\n%.2f R %.2f = %.2f", numero_01, numero_02, Math.sqrt(numero_01));
+		
+		leia.close(); // Elimina o Warning do Scanner
 	}
 
 }
