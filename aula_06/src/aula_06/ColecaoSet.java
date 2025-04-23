@@ -17,6 +17,7 @@ public class ColecaoSet {
 		frutas.add("Banana");
 		frutas.add("Maçã");
 		frutas.add("maçã");
+		frutas.add("abacate");
 		
 		System.out.println(frutas);
 		
@@ -37,11 +38,17 @@ public class ColecaoSet {
 			System.out.println(iFrutas.next());
 		}
 		
+		// Criamos a Coleção ArrayList
 		ArrayList<String> frutasList = new ArrayList<String>();
 		
+		// Adicionamos todos os elementos da Coleção Set (frutas) 
+		// na Coleção ArrayList (futasList)
 		frutasList.addAll(frutas);
+		
+		// Ordenamos futasList em ordem crescente
 		frutasList.sort(null);
 		
+		// Exibimos frutaList em ordem crescente
 		System.out.println("Exibir os dados do Array List");
 		frutasList.forEach(System.out::println);
 	}
