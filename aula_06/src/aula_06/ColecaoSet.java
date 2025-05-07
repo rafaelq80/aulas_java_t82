@@ -50,7 +50,9 @@ public class ColecaoSet {
 		
 		// Exibimos frutaList em ordem crescente
 		System.out.println("Exibir os dados do Array List");
-		frutasList.forEach(System.out::println);
+		//frutasList.forEach(System.out::println);
+		
+		frutasList.forEach(n -> System.out.println(n));
 	}
 
 }
