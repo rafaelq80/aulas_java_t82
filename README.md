@@ -35,16 +35,19 @@ Você encontrará conteúdos que abrangem desde os fundamentos da linguagem Java
 
 <br />
 
-| Aula    | Tema                   | Acesso                                                       | Descrição                                             |
-| ------- | ---------------------- | ------------------------------------------------------------ | ----------------------------------------------------- |
-| Aula 01 | Introdução ao Java     | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/helloworld) | Primeiros passos, estrutura básica e saída de dados   |
-| Aula 02 | Variáveis e Operadores | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_02) | Variáveis, constantes, `Scanner`, operadores diversos |
-| Aula 03 | Condicionais e Lógicos | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_03) | `if/else`, `switch`, operadores relacionais e lógicos |
-| Aula 04 | Laços de Repetição     | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_04) | Estruturas `for`, `while` e `do-while`                |
-| Aula 05 | Arrays                 | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_05) | Vetores e matrizes                                    |
-| Aula 06 | Collections (Parte 1)  | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_06) | Trabalhando com `ArrayList` e `Set`                   |
-| Aula 07 | Collections (Parte 2)  | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_07) | Uso de `Queue` e `Stack`                              |
-| Aula 08 | Métodos                | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_08) | Criação de métodos com e sem retorno                  |
+| Aula    | Tema                          | Acesso                                                       | Descrição                                             |
+| ------- | ----------------------------- | ------------------------------------------------------------ | ----------------------------------------------------- |
+| Aula 01 | Introdução ao Java            | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/helloworld) | Primeiros passos, estrutura básica e saída de dados   |
+| Aula 02 | Variáveis e Operadores        | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_02) | Variáveis, constantes, `Scanner`, operadores diversos |
+| Aula 03 | Condicionais e Lógicos        | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_03) | `if/else`, `switch`, operadores relacionais e lógicos |
+| Aula 04 | Laços de Repetição            | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_04) | Estruturas `for`, `while` e `do-while`                |
+| Aula 05 | Arrays                        | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_05) | Vetores e matrizes                                    |
+| Aula 06 | Collections (Parte 1)         | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_06) | Trabalhando com `ArrayList` e `Set`                   |
+| Aula 07 | Collections (Parte 2)         | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_07) | Uso de `Queue` e `Stack`                              |
+| Aula 08 | Métodos                       | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_08) | Criação de métodos com e sem retorno                  |
+| Aula 09 | Classes Abstratas e Interface | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/triatleta) | Simulando Herança Múltipla com Interfaces             |
+| Aula 10 | Exceptions                    | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_exceptions) | Tratamento de Exceções                                |
+| Aula 11 | Streams                       | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_streams) | Expressões Lambda e Streams                           |
 
 <br />
 
@@ -102,4 +105,3 @@ Este repositório é parte de um projeto educacional, mas contribuições são s
 
 Desenvolvido por [**Rafael**](https://github.com/rafaelq80)
 Para dúvidas, sugestões ou colaborações, entre em contato via GitHub ou abra uma issue!
-
